@@ -1,0 +1,2 @@
+Hola, este es un ejemplo de uso de constructores.
+El destructor se ejecutará al eliminar el objeto.
